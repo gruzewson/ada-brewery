@@ -1,2 +1,0 @@
-# ada-browar
-wytwarzanie piw
